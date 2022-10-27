@@ -1,0 +1,16 @@
+total 5.0K
+drwxr-xr-x 1 user 197121  0 Oct 25 20:44 WOW/
+-rw-r--r-- 1 user 197121 74 Oct 17 02:01 ex.py
+-rw-r--r-- 1 user 197121 93 Oct 16 22:47 exercise.py
+-rw-r--r-- 1 user 197121  0 Oct 27 14:10 file_list.txt
+-rw-r--r-- 1 user 197121  0 Oct 18 19:24 ggg.txt
+-rw-r--r-- 1 user 197121  0 Oct 25 20:42 jjjo.txt
+-rw-r--r-- 1 user 197121  0 Oct 18 19:24 new_fi.txt
+total 6.0K
+drwxr-xr-x 1 user 197121   0 Oct 25 20:44 WOW/
+-rw-r--r-- 1 user 197121  74 Oct 17 02:01 ex.py
+-rw-r--r-- 1 user 197121  93 Oct 16 22:47 exercise.py
+-rw-r--r-- 1 user 197121 363 Oct 27 14:10 file_list.txt
+-rw-r--r-- 1 user 197121   0 Oct 18 19:24 ggg.txt
+-rw-r--r-- 1 user 197121   0 Oct 25 20:42 jjjo.txt
+-rw-r--r-- 1 user 197121   0 Oct 18 19:24 new_fi.txt
